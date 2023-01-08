@@ -106,5 +106,3 @@ Being a python developper, makes me suitable to resolve all kinds of problems. B
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
