@@ -33,7 +33,7 @@ Being a python developper, makes me suitable to resolve all kinds of problems. B
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on learning new stuff  
+- 🔭 I’m currently working on a CSS/JS based 3D renderer called [Eppy](https://github.com/lele394/Eppy-Web-3D-renderer) 
   
 
 - 🌱 I’m currently learning HTML, JS, CSS and Rust  
