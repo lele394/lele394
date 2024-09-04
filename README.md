@@ -50,7 +50,7 @@ Being a python developper, makes me suitable to resolve all kinds of problems. B
 
 </td></tr></table>  
 <div align="center">
-<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/sit-phileanosis.gif" align="center" width="100%" style="width: 100%;  height: calc(43 / 41 * 100%); max-height: 120"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/sit-phileanosis.gif" align="center"  style="width: calc(43 / 41 * !@));;  height: 120;"  />
 </div>  
 
 <br/>  
