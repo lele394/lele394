@@ -71,7 +71,7 @@ Being a python developper, makes me suitable to resolve all kinds of problems. B
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/18.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/19.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 
-<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/20.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<!-- <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/20.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/21.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/22.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/23.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
@@ -91,7 +91,7 @@ Being a python developper, makes me suitable to resolve all kinds of problems. B
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/36.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/37.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/38.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
-<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/39.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/39.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  /> -->
 
  ### Long live the witch!
 
@@ -115,9 +115,8 @@ Being a python developper, makes me suitable to resolve all kinds of problems. B
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/55.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/56.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/57.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
-<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/58.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<!-- <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/58.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/59.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
-
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/60.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/61.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/62.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
@@ -128,7 +127,6 @@ Being a python developper, makes me suitable to resolve all kinds of problems. B
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/67.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/68.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/69.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
-
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/70.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/71.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/72.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
@@ -138,7 +136,7 @@ Being a python developper, makes me suitable to resolve all kinds of problems. B
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/76.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/77.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/78.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
-<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/79.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/79.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  /> -->
 
 
 </div>  
