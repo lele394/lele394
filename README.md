@@ -69,9 +69,8 @@ Being a python developper, makes me suitable to resolve all kinds of problems. B
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/16.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/17.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/18.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
-<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/19.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
-
-<!-- <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/20.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<!--<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/19.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/20.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/21.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/22.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/23.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
@@ -81,7 +80,6 @@ Being a python developper, makes me suitable to resolve all kinds of problems. B
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/27.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/28.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/29.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
-
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/30.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/31.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/32.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
