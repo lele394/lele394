@@ -93,6 +93,9 @@ Being a python developper, makes me suitable to resolve all kinds of problems. B
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/38.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/39.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 
+ Long live the witch!
+
+
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/40.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/41.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/42.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
@@ -137,7 +140,6 @@ Being a python developper, makes me suitable to resolve all kinds of problems. B
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/78.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/79.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 
- Long live the witch!
 
 </div>  
 
