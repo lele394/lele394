@@ -52,7 +52,7 @@ Being a python developper, makes me suitable to resolve all kinds of problems. B
 <div align="center">
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/1.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/2.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
-<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/3.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<!-- <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/3.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  /> -->
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/4.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/5.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/6.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
