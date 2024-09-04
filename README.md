@@ -31,12 +31,12 @@ Being a python developper, makes me suitable to resolve all kinds of problems. B
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
-- 🔭 Currently studying COmputational Physics, more interested in software.
+- 🔭 Currently studying Computational Physics, more interested in software.
   
 
-- 🌱 I’m currently learning Fortran 
+- 🌱 Currently remakin Revived witch's wiki
   
 
 - ❓ Ask me about anything on Instagram  
@@ -48,7 +48,7 @@ Being a python developper, makes me suitable to resolve all kinds of problems. B
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="./rsc/sit-phileanosis.gif" align="center" style="width: 100%" />
 </div>  
 
 
