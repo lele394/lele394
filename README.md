@@ -36,13 +36,13 @@ Being a python developper, makes me suitable to resolve all kinds of problems. B
 - 🔭 Currently studying Computational Physics, more interested in software.
   
 
-- 🌱 Currently remakin Revived witch's wiki
+- 🌱 Currently remaking Revived witch's wiki
   
 
-- ❓ Ask me about anything on Instagram  
+- ⚡ Building my own backend, flexibility is king  
   
 
-- ⚡ Fun fact: I'm building a spectrometer and it's hard  
+- ❓ Contact me on discord @lele394
 
 
 </td>
@@ -91,7 +91,7 @@ Being a python developper, makes me suitable to resolve all kinds of problems. B
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/38.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/39.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  /> -->
 
- ### Long live the witch!
+ ## Long live the witch!
 
 
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/40.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
