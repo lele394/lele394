@@ -1,7 +1,4 @@
-# <div align="center">
-<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/11.gif"   style="width: calc(43 / 41 * 100%);;  height: 100%;"  />
-Hey 👋, I'm Léo! 
-<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/74.gif"   style="width: calc(43 / 41 * 100%);;  height: 100%;"  />
+# <div align="center"><img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/11.gif"   style="width: calc(43 / 41 * 100%);;  height: 100%;"  />Hey 👋, I'm Léo! <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/74.gif"   style="width: calc(43 / 41 * 100%);;  height: 100%;"  />
 </div>  
   
 
