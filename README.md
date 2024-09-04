@@ -45,14 +45,13 @@ Being a python developper, makes me suitable to resolve all kinds of problems. B
 - ⚡ Fun fact: I'm building a spectrometer and it's hard  
 
 
-</td><td valign="top" width="50%">
+</td>
 
-<div align="center">
-</div>  
-
-<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/sit-phileanosis.gif" align="center" width="100%" style="width: 100%;  height: calc(43 / 41 * 100%);"  />
 
 </td></tr></table>  
+<div align="center">
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/sit-phileanosis.gif" align="center" width="100%" style="width: 100%;  height: calc(43 / 41 * 100%);"  />
+</div>  
 
 <br/>  
 
