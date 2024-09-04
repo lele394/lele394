@@ -48,7 +48,7 @@ Being a python developper, makes me suitable to resolve all kinds of problems. B
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/sit-phileanosis.gif" align="center" width="4rem" height="4rem" />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/sit-phileanosis.gif" align="center" width="100%"  />
 </div>  
 
 
