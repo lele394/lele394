@@ -70,6 +70,74 @@ Being a python developper, makes me suitable to resolve all kinds of problems. B
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/17.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/18.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/19.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/20.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/21.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/22.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/23.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/24.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/25.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/26.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/27.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/28.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/29.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/30.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/31.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/32.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/33.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/34.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/35.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/36.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/37.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/38.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/39.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/40.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/41.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/42.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/43.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/44.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/45.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/46.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/47.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/48.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/49.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/50.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/51.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/52.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/53.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/54.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/55.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/56.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/57.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/58.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/59.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/60.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/61.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/62.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/63.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/64.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/65.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/66.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/67.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/68.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/69.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/70.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/71.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/72.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/73.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/74.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/75.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/76.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/77.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/78.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/79.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+
+
 </div>  
 
 <br/>  
