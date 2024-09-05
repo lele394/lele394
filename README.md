@@ -26,6 +26,10 @@ I’m a self-taught programmer. I have a background in physics and optics, and a
 I was introduced to the world of computer science by videogames, and my will to always learn more shifted my focus on more substantial things, like simulations, and networking.
 
 Being a python developper, makes me suitable to resolve all kinds of problems. But my current focus is studies!  
+
+I do fullstack too, low-key like JavaScript.
+
+Current large-scale project include Revived Witch's revival (especially remaking a [wiki](https://github.com/lele394/Chronotower-s-library)) 
   
 
 <br/>  
