@@ -80,7 +80,7 @@ Feel free to check out my [Resume](./Resume_but_mine.pdf) (might not be up to da
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/5.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/6.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/7.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
-<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/8.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<!-- <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/8.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  /> -->
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/9.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/10.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/11.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
@@ -92,10 +92,10 @@ Feel free to check out my [Resume](./Resume_but_mine.pdf) (might not be up to da
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/17.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/18.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <!--<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/19.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
-<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/20.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/20.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  /> -->
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/21.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/22.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
-<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/23.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
+<!--<img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/23.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/24.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/25.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
 <img src="https://raw.githubusercontent.com/lele394/lele394/main/rsc/26.gif" align="center"  style="width: calc(43 / 41 * 100%);;  height: 120;"  />
