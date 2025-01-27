@@ -33,7 +33,7 @@ Current large-scale project include Revived Witch's revival (especially remaking
 - [Raytraced voxel renderer](https://github.com/lele394/raymarching-test) (bugged)
 - [Marching-Cubes implementation](https://github.com/lele394/threejs_shenannigans)
 - Cita Discord Bot (Private)
-- Machne learning work on Direct Feedback Alignment (Private)
+- Machne learning work on [Direct Feedback Alignment](https://arxiv.org/pdf/1609.01596) (Private)
 - Interstellar Dust extinction profile prediction using Machine Learning (Private)
 - [TM-30-20](https://www.energy.gov/sites/default/files/2022-04/ssl-royer-leukos-tm-30-tutorial-2022.pdf) Standrad related work (under NDA)
 
