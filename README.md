@@ -21,16 +21,35 @@
 
 
 ### Glad to see you here!  
-I’m a self-taught programmer. I have a background in physics and optics, and a passion for programming.
+I’m a self-taught programmer with a background in physics, chemistry and engineering. My main area of expertise include, but are not limited to, High-Performance Computations, Physical simulations, Optics, Quantum Physics and Chemistry. 
 
-I was introduced to the world of computer science by videogames, and my will to always learn more shifted my focus on more substantial things, like simulations, and networking.
-
-Being a python developper, makes me suitable to resolve all kinds of problems. But my current focus is studies!  
-
-I do fullstack too, low-key like JavaScript.
+I was introduced to the world of computer science by videogames, and my will to always learn more shifted my focus on more substantial things, like simulations, and networking. Nowadays, I am focused on developping efficient and modular code with applied to physical simulations.
 
 Current large-scale project include Revived Witch's revival (especially remaking a [wiki](https://github.com/lele394/Chronotower-s-library)) 
-  
+
+### Notable Projects
+- [Fortran OpenMP and OpenACC N-Body siulation](https://github.com/lele394/Fortran-N-Body-OpenMP-OpenACC)
+- [Rate equation simulation for growth modelling](https://github.com/lele394/Rate-equations-or-MC-approaches-for-modelling-growth)
+- [Raytraced voxel renderer](https://github.com/lele394/raymarching-test) (bugged)
+- [Marching-Cubes implementation](https://github.com/lele394/threejs_shenannigans)
+- Cita Discord Bot (Private)
+- Machne learning work on Direct Feedback Alignment (Private)
+- Interstellar Dust extinction profile prediction using Machine Learning (Private)
+- [TM-30-20](https://www.energy.gov/sites/default/files/2022-04/ssl-royer-leukos-tm-30-tutorial-2022.pdf) Standrad related work (under NDA)
+
+<br/>
+
+### Favorite tools and languages
+- **prototyping :** Python, Jupyter Notebook
+- **Speed-critical :** Fortran
+- **Backend :** NodeJS, Python
+- **Front-end :** Pure CSS and HTML
+- **Data Analysis :** Python, Jupyter Notebook
+
+### Interest and domains i would like to learn.
+- **Reverse Engineering :** Binary Ninja, Reverse Engineering, ARM/x64 reversing
+- **Low-level :** ASM, Manual ASM optimization, Embedded System Programming
+- **Custom Server Development :** Protocol reversing, Decryption 
 
 <br/>  
 
@@ -40,12 +59,9 @@ Current large-scale project include Revived Witch's revival (especially remaking
 
 - 🔭 Currently studying Computational Physics, more interested in software.
   
-
-- 🌱 Currently remaking Revived witch's wiki
+- 🌱 Last standing Global Revived witch's wiki host.
   
-
-- ⚡ Building my own backend, flexibility is king  
-  
+- ⚡ Building my own backend.
 
 - ❓ Contact me on discord @lele394
 
