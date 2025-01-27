@@ -52,6 +52,7 @@ Current large-scale project include Revived Witch's revival (especially remaking
 - **Custom Server Development :** Protocol reversing, Decryption 
 
 <br/>  
+
 Feel free to check out my [Resume](./Resume_but_mine.pdf) (might not be up to date).
 
 
