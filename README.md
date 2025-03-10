@@ -23,19 +23,19 @@
 ### Glad to see you here!  
 I’m a self-taught programmer with a background in physics, chemistry and engineering. My main area of expertise include, but are not limited to, High-Performance Computations, Physical simulations, Optics, Quantum Physics and Chemistry. 
 
-I was introduced to the world of computer science by videogames, and my will to always learn more shifted my focus on more substantial things, like simulations, and networking. Nowadays, I am focused on developping efficient and modular code with applied to physical simulations.
+I was introduced to the world of computer science by videogames, and my will to always learn more shifted my focus on more substantial things, like simulations, and networking. Nowadays, I am focused on developping efficient and modular code with applications in physical simulations.
 
 Current large-scale project include Revived Witch's revival (especially remaking a [wiki](https://github.com/lele394/Chronotower-s-library)) 
 
 ### Notable Projects
-- [Fortran OpenMP and OpenACC N-Body siulation](https://github.com/lele394/Fortran-N-Body-OpenMP-OpenACC)
+- [Fortran OpenMP and OpenACC N-Body simulation](https://github.com/lele394/Fortran-N-Body-OpenMP-OpenACC)
 - [Rate equation simulation for growth modelling](https://github.com/lele394/Rate-equations-or-MC-approaches-for-modelling-growth)
 - [Raytraced voxel renderer](https://github.com/lele394/raymarching-test) (bugged)
 - [Marching-Cubes implementation](https://github.com/lele394/threejs_shenannigans)
 - Cita Discord Bot (Private)
-- Machne learning work on [Direct Feedback Alignment](https://arxiv.org/pdf/1609.01596) (Private)
+- Machine learning work on [Direct Feedback Alignment](https://arxiv.org/pdf/1609.01596) (Private)
 - Interstellar Dust extinction profile prediction using Machine Learning (Private)
-- [TM-30-20](https://www.energy.gov/sites/default/files/2022-04/ssl-royer-leukos-tm-30-tutorial-2022.pdf) Standrad related work (under NDA)
+- [TM-30-20](https://www.energy.gov/sites/default/files/2022-04/ssl-royer-leukos-tm-30-tutorial-2022.pdf) Standard related work (under NDA)
 
 <br/>
 
@@ -61,7 +61,7 @@ Feel free to check out my [Resume](./Resume_but_mine.pdf) (might not be up to da
 
 - 🔭 Currently studying Computational Physics, more interested in software.
   
-- 🌱 Last standing Global Revived witch's wiki host.
+- 🌱 Last (maybe not) standing Global Revived Witch's wiki host.
   
 - ⚡ Building my own backend.
 
