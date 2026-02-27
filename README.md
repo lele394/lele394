@@ -17,7 +17,17 @@
 </a>  
 </div>  
   
-
+##### To the CERN STEAM academy commitee
+>You may be interested in the following projects :
+>  - [Fortran OpenMP and OpenACC N-Body simulation](https://github.com/lele394/Fortran-N-Body-OpenMP-OpenACC)
+>    - [Video demos](https://www.youtube.com/playlist?list=PLbVMHgx1jRJ0Fqu5tftJsuGZ--NvPkVJ3)
+>  - [CPP-OpenGL-ray-based-renderer](https://github.com/lele394/CPP-OpenGL-ray-based-renderer/tree/main) , *still ongoing, readme is not done*
+>    - [Video demos and progress](https://www.youtube.com/playlist?list=PLbVMHgx1jRJ0ISCQKBzJR1klF9tkF3L1A)
+>  - Accurate rendering of a blackhole *code is sadly private for now*
+>    - [Video demos](https://www.youtube.com/playlist?list=PLbVMHgx1jRJ1bpJtWl2TnnwiDeFhx3Ruj)
+>
+> You may also be interested in this absurdingly bad project which uses singl streaming multiprocessors on a GPU to simulate a gas system and verify statical physics property of ideal gases.
+> [GPU MultiSystem gas simulation](https://github.com/lele394/GPU-MultiSystem-gas-simulation), which sadly don't have a comprehensive readme, but do have notebooks.
 
 
 ### Glad to see you here!  
