@@ -25,6 +25,9 @@
 >    - [Video demos and progress](https://www.youtube.com/playlist?list=PLbVMHgx1jRJ0ISCQKBzJR1klF9tkF3L1A)
 >  - Accurate rendering of a blackhole *code is sadly private for now*
 >    - [Video demos](https://www.youtube.com/playlist?list=PLbVMHgx1jRJ1bpJtWl2TnnwiDeFhx3Ruj)
+>  - [Lattice-Boltzmann 2DQ9 fluid simulation](https://github.com/lele394/Lattice-Boltzmann-WebGL)
+>    - [Video Demos](https://www.youtube.com/playlist?list=PLbVMHgx1jRJ25z9HuNSBwIXIyp2sq--8g)
+>    - [Interactive demo](https://lele394.github.io/Lattice-Boltzmann-WebGL/)
 >
 > You may also be interested in this absurdingly bad project which uses singl streaming multiprocessors on a GPU to simulate a gas system and verify statical physics property of ideal gases.
 > [GPU MultiSystem gas simulation](https://github.com/lele394/GPU-MultiSystem-gas-simulation), which sadly don't have a comprehensive readme, but do have notebooks.
