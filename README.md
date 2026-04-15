@@ -16,7 +16,8 @@
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+
+<!--
 ##### To the CERN STEAM academy commitee
 >You may be interested in the following projects :
 >  - [Fortran OpenMP and OpenACC N-Body simulation](https://github.com/lele394/Fortran-N-Body-OpenMP-OpenACC)
@@ -31,7 +32,7 @@
 >
 > You may also be interested in this absurdingly bad project which uses singl streaming multiprocessors on a GPU to simulate a gas system and verify statical physics property of ideal gases.
 > [GPU MultiSystem gas simulation](https://github.com/lele394/GPU-MultiSystem-gas-simulation), which sadly don't have a comprehensive readme, but do have notebooks.
-
+-->
 
 ### Glad to see you here!  
 I’m a self-taught programmer with a background in physics, chemistry and engineering. My main area of expertise include, but are not limited to, High-Performance Computations, Physical simulations, Optics, Quantum Physics and Chemistry. 
