@@ -1,0 +1,146 @@
+---
+import { SITE_TITLE } from '../consts';
+import HeaderLink from './HeaderLink.astro';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<header>
+	<nav class="nav-container">
+		<h2 class="logo"><a href={`${base}/`}>{SITE_TITLE}</a></h2>
+
+		<div class="links" aria-label="Primary">
+			<HeaderLink href="/">Home</HeaderLink>
+			<HeaderLink href="/blog">Blog</HeaderLink>
+			<HeaderLink href="/resume">Resume</HeaderLink>
+			
+			<button id="theme-switch" class="theme-switch" type="button" role="switch" aria-label="Toggle theme">
+				<div class="switch-track">
+					<div class="switch-thumb">
+						<!-- Sun Icon (shown in dark mode) -->
+						<svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2"></path><path d="M12 20v2"></path><path d="m4.93 4.93 1.41 1.41"></path><path d="m17.66 17.66 1.41 1.41"></path><path d="M2 12h2"></path><path d="M20 12h2"></path><path d="m6.34 17.66-1.41 1.41"></path><path d="m19.07 4.93-1.41 1.41"></path></svg>
+						<!-- Moon Icon (shown in light mode) -->
+						<svg class="moon-icon" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"></path></svg>
+					</div>
+				</div>
+			</button>
+		</div>
+	</nav>
+</header>
+
+<script is:inline>
+	(() => {
+		const root = document.documentElement;
+		const toggle = document.getElementById('theme-switch');
+		
+		const setTheme = (theme) => {
+			root.dataset.theme = theme;
+			root.style.colorScheme = theme;
+			localStorage.setItem('theme', theme);
+		};
+
+		const initialTheme = localStorage.getItem('theme') || 
+			(window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+		
+		setTheme(initialTheme);
+
+		toggle?.addEventListener('click', () => {
+			setTheme(root.dataset.theme === 'dark' ? 'light' : 'dark');
+		});
+	})();
+</script>
+
+<style>
+	header {
+		position: sticky;
+		top: 0;
+		z-index: 20;
+		padding: 0 1.5rem;
+		border-bottom: 1px solid var(--border);
+		background: color-mix(in srgb, var(--background) 80%, transparent);
+		backdrop-filter: blur(12px);
+		-webkit-backdrop-filter: blur(12px);
+	}
+
+	.nav-container {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		max-width: var(--layout-max-width);
+		height: 4rem;
+		margin: 0 auto;
+	}
+
+	.logo { margin: 0; font-size: 1.1rem; }
+	.logo a { text-decoration: none; color: var(--text); font-weight: 700; }
+
+	.links {
+		display: flex;
+		align-items: center;
+		gap: 1rem;
+		flex-wrap: nowrap; /* Prevents the switch from dropping to a second line */
+	}
+
+	/* --- THE SWITCH --- */
+	.theme-switch {
+		width: 42px;
+		height: 24px;
+		padding: 0;
+		background: none;
+		border: none;
+		cursor: pointer;
+		flex-shrink: 0;
+		margin-left: 0.5rem;
+	}
+
+	.switch-track {
+		width: 100%;
+		height: 100%;
+		background: var(--surface-alt, #eee);
+		border: 1px solid var(--border);
+		border-radius: 100px;
+		position: relative;
+		transition: background 0.3s ease;
+	}
+
+	.switch-thumb {
+		position: absolute;
+		top: 2px;
+		left: 2px;
+		width: 18px;
+		height: 18px;
+		background: #ffffff; /* Thumb is always white in light mode */
+		border-radius: 50%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+		transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), background 0.3s ease;
+	}
+
+	/* Icon Styles & Visibility */
+	.theme-switch svg {
+		position: absolute;
+		width: 12px;
+		height: 12px;
+		transition: opacity 0.2s ease, transform 0.2s ease;
+	}
+
+	/* LIGHT MODE COLORS */
+	:global([data-theme='light']) .switch-track { background: #e2e2e2; }
+	:global([data-theme='light']) .switch-thumb { transform: translateX(0); background: #fff; }
+	:global([data-theme='light']) .moon-icon { opacity: 1; stroke: #111; } /* Dark moon on white thumb */
+	:global([data-theme='light']) .sun-icon { opacity: 0; transform: scale(0.5); }
+
+	/* DARK MODE COLORS */
+	:global([data-theme='dark']) .switch-track { background: #2c2c2e; border-color: #444; }
+	:global([data-theme='dark']) .switch-thumb { 
+		transform: translateX(18px); 
+		background: #111; /* Thumb turns dark in dark mode */
+	}
+	:global([data-theme='dark']) .sun-icon { opacity: 1; stroke: #fff; } /* White sun on dark thumb */
+	:global([data-theme='dark']) .moon-icon { opacity: 0; transform: scale(0.5); }
+
+	@media (max-width: 720px) {
+		.links { gap: 0.75rem; }
+	}
+</style>

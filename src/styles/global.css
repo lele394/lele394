@@ -1,0 +1,342 @@
+@import "katex/dist/katex.min.css";
+
+:root {
+	color-scheme: dark light;
+	--layout-max-width: 1120px;
+	--reading-max-width: 760px;
+
+	--background: #0b1117;
+	--background-elevated: #101923;
+	--surface: rgba(16, 25, 35, 0.92);
+	--surface-alt: rgba(20, 31, 43, 0.96);
+	--text: #e7edf5;
+	--secondary-text: #9db0c2;
+	--accent: #8cc8ff;
+	--accent-strong: #c6e3ff;
+	--border: rgba(141, 166, 191, 0.22);
+	--border-strong: rgba(141, 166, 191, 0.34);
+	--shadow: 0 14px 40px rgba(0, 0, 0, 0.24);
+	--ring: 0 0 0 3px rgba(140, 200, 255, 0.18);
+
+	--black: 231, 237, 245;
+	--gray: 157, 176, 194;
+	--gray-light: 141, 166, 191;
+	--gray-dark: 19, 29, 40;
+}
+
+@media (prefers-color-scheme: light) {
+	:root {
+		--background: #f4f7fa;
+		--background-elevated: #ffffff;
+		--surface: rgba(255, 255, 255, 0.9);
+		--surface-alt: rgba(247, 250, 253, 0.96);
+		--text: #102030;
+		--secondary-text: #536273;
+		--accent: #005f9e;
+		--accent-strong: #0f7bc7;
+		--border: rgba(16, 32, 48, 0.12);
+		--border-strong: rgba(16, 32, 48, 0.2);
+		--shadow: 0 14px 35px rgba(16, 32, 48, 0.08);
+		--ring: 0 0 0 3px rgba(0, 95, 158, 0.14);
+
+		--black: 16, 32, 48;
+		--gray: 83, 98, 115;
+		--gray-light: 141, 156, 171;
+		--gray-dark: 16, 32, 48;
+	}
+}
+
+/* Optional manual theme override */
+:root[data-theme="dark"] {
+	color-scheme: dark;
+}
+
+:root[data-theme="light"] {
+	color-scheme: light;
+	--background: #f4f7fa;
+	--background-elevated: #ffffff;
+	--surface: rgba(255, 255, 255, 0.9);
+	--surface-alt: rgba(247, 250, 253, 0.96);
+	--text: #102030;
+	--secondary-text: #536273;
+	--accent: #005f9e;
+	--accent-strong: #0f7bc7;
+	--border: rgba(16, 32, 48, 0.12);
+	--border-strong: rgba(16, 32, 48, 0.2);
+	--shadow: 0 14px 35px rgba(16, 32, 48, 0.08);
+	--ring: 0 0 0 3px rgba(0, 95, 158, 0.14);
+
+	--black: 16, 32, 48;
+	--gray: 83, 98, 115;
+	--gray-light: 141, 156, 171;
+	--gray-dark: 16, 32, 48;
+}
+
+:root[data-theme="dark"] {
+	--background: #0b1117;
+	--background-elevated: #101923;
+	--surface: rgba(16, 25, 35, 0.92);
+	--surface-alt: rgba(20, 31, 43, 0.96);
+	--text: #e7edf5;
+	--secondary-text: #9db0c2;
+	--accent: #8cc8ff;
+	--accent-strong: #c6e3ff;
+	--border: rgba(141, 166, 191, 0.22);
+	--border-strong: rgba(141, 166, 191, 0.34);
+	--shadow: 0 14px 40px rgba(0, 0, 0, 0.24);
+	--ring: 0 0 0 3px rgba(140, 200, 255, 0.18);
+
+	--black: 231, 237, 245;
+	--gray: 157, 176, 194;
+	--gray-light: 141, 166, 191;
+	--gray-dark: 19, 29, 40;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	font-family: "Berkeley Mono", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	background:
+		radial-gradient(circle at top, rgba(140, 200, 255, 0.08), transparent 34%),
+		linear-gradient(180deg, rgba(255, 255, 255, 0.02), transparent 22%),
+		var(--background);
+	word-wrap: break-word;
+	overflow-wrap: break-word;
+	color: var(--text);
+	font-size: 17px;
+	line-height: 1.7;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-rendering: optimizeLegibility;
+	transition:
+		background-color 180ms ease,
+		color 180ms ease;
+}
+
+::selection {
+	background: rgba(140, 200, 255, 0.22);
+	color: var(--text);
+}
+
+main {
+	width: var(--layout-max-width);
+	max-width: calc(100% - 2rem);
+	margin: 0 auto;
+	padding: 3rem 1rem 4rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0 0 0.65rem;
+	color: var(--text);
+	line-height: 1.15;
+	letter-spacing: -0.02em;
+}
+
+h1 {
+	font-size: clamp(2.1rem, 4vw, 3.1rem);
+}
+
+h2 {
+	font-size: clamp(1.6rem, 2.8vw, 2.1rem);
+}
+
+h3 {
+	font-size: clamp(1.2rem, 2vw, 1.45rem);
+}
+
+h4,
+h5,
+h6 {
+	font-size: 1rem;
+}
+
+strong,
+b {
+	font-weight: 700;
+	color: var(--accent-strong);
+}
+
+a {
+	color: var(--accent);
+	text-decoration: none;
+	text-underline-offset: 0.18em;
+	transition: color 140ms ease, opacity 140ms ease;
+}
+
+a:hover {
+	color: var(--accent-strong);
+	text-decoration: underline;
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+summary:focus-visible {
+	outline: none;
+	box-shadow: var(--ring);
+	border-radius: 6px;
+}
+
+p {
+	margin-bottom: 1em;
+}
+
+.prose p {
+	margin-bottom: 1.15em;
+}
+
+textarea,
+input {
+	font: inherit;
+	font-size: 0.98rem;
+	color: var(--text);
+	background: var(--surface);
+	border: 1px solid var(--border);
+	border-radius: 10px;
+	padding: 0.75rem 0.9rem;
+}
+
+textarea {
+	width: 100%;
+	min-height: 9rem;
+	resize: vertical;
+}
+
+input {
+	max-width: 100%;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+	background: var(--surface);
+	border: 1px solid var(--border);
+	border-radius: 14px;
+	overflow: hidden;
+	box-shadow: var(--shadow);
+}
+
+th,
+td {
+	border-bottom: 1px solid var(--border);
+	padding: 0.75rem 0.9rem;
+	text-align: left;
+	vertical-align: top;
+}
+
+th {
+	color: var(--text);
+	background: var(--surface-alt);
+	font-weight: 700;
+}
+
+tr:last-child td {
+	border-bottom: 0;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 12px;
+	display: block;
+}
+
+code {
+	padding: 0.15rem 0.38rem;
+	background-color: var(--surface-alt);
+	border: 1px solid var(--border);
+	border-radius: 6px;
+	font-size: 0.92em;
+}
+
+pre {
+	padding: 1.25rem;
+	border-radius: 14px;
+	border: 1px solid var(--border);
+	background:
+		linear-gradient(180deg, rgba(255, 255, 255, 0.02), transparent),
+		var(--surface);
+	box-shadow: var(--shadow);
+	overflow: auto;
+}
+
+pre > code {
+	all: unset;
+	font-family: inherit;
+}
+
+blockquote {
+	border-left: 3px solid var(--accent);
+	padding: 0 0 0 1rem;
+	margin: 0;
+	color: var(--secondary-text);
+	background: linear-gradient(90deg, rgba(140, 200, 255, 0.06), transparent);
+}
+
+hr {
+	border: none;
+	border-top: 1px solid var(--border);
+	margin: 2rem 0;
+}
+
+@media (max-width: 720px) {
+	body {
+		font-size: 16px;
+	}
+
+	main {
+		max-width: calc(100% - 1.25rem);
+		padding: 1.25rem 0 2.5rem;
+	}
+
+	table,
+	pre {
+		border-radius: 12px;
+	}
+}
+
+.sr-only {
+	border: 0;
+	padding: 0;
+	margin: 0;
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+	/* IE6, IE7 - a 0 height clip, off to the bottom right of the visible 1px box */
+	clip: rect(1px 1px 1px 1px);
+	/* maybe deprecated but we need to support legacy browsers */
+	clip: rect(1px, 1px, 1px, 1px);
+	/* modern browsers, clip-path works inwards from each corner */
+	clip-path: inset(50%);
+	/* added line to stop words getting smushed together (as they go onto separate lines and some screen readers do not understand line feeds as a space */
+	white-space: nowrap;
+}
+
+.katex,
+.katex-display {
+	color: var(--text);
+}
+
+.katex-display {
+	overflow-x: auto;
+	overflow-y: hidden;
+	padding: 0.25rem 0;
+}
