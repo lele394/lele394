@@ -3,7 +3,6 @@
   
 
 ###### *<div align="center">Making stuff, testing stuff, breaking stuff and... Fixing stuff.</div>*  
-  
 
 <div align="center">
 <a href="https://github.com/lele394" target="_blank">
@@ -12,13 +11,13 @@
 <a href="https://instagram.com/nebulae_wanderer" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.io/lele394" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+<a href="https://www.nebuleo.org" target="_blank">
+<img src=https://img.shields.io/badge/Personal_Website-blue?style=for-the-badge&color=%230b305c&link=https%3A%2F%2Fwww.nebuleo.org  style="margin-bottom: 5px;"" />
 </a>  
 </div>  
 
-<!--
-##### To the CERN STEAM academy commitee
+
+##### Stuff done but not cleanly added to my resume
 >You may be interested in the following projects :
 >  - [Fortran OpenMP and OpenACC N-Body simulation](https://github.com/lele394/Fortran-N-Body-OpenMP-OpenACC)
 >    - [Video demos](https://www.youtube.com/playlist?list=PLbVMHgx1jRJ0Fqu5tftJsuGZ--NvPkVJ3)
@@ -32,21 +31,24 @@
 >
 > You may also be interested in this absurdingly bad project which uses singl streaming multiprocessors on a GPU to simulate a gas system and verify statical physics property of ideal gases.
 > [GPU MultiSystem gas simulation](https://github.com/lele394/GPU-MultiSystem-gas-simulation), which sadly don't have a comprehensive readme, but do have notebooks.
--->
+
 
 ### Glad to see you here!  
-I’m a self-taught programmer with a background in physics, chemistry and engineering. My main area of expertise include, but are not limited to, High-Performance Computations, Physical simulations, Optics, Quantum Physics and Chemistry. 
+I’m a self-taught programmer with a background in physics, chemistry and engineering. My main areas of expertise include, but are not limited to, High-Performance Computations, Physical simulations, Energy Efficiency. I also have relative expertise in Optics, Quantum Physics and Chemistry. 
 
-I was introduced to the world of computer science by videogames, and my will to always learn more shifted my focus on more substantial things, like simulations, and networking. Nowadays, I am focused on developping efficient and modular code with applications in physical simulations.
+I was introduced to the world of computer science by videogames, and I wanted to know how they worked. This shifted my focus on more substantial things, like simulations, and networking. Nowadays, I am working on Energy Efficiency for Data-Driven Applications, as part of a PhD. Of course I'm still messing around whatever flips NAND gates.
 
 Current large-scale project include Revived Witch's revival (especially remaking a [wiki](https://github.com/lele394/Chronotower-s-library)) 
 
 ### Notable Projects
+- [Lattice-Boltzmann in WebGL](https://www.nebuleo.org/Lattice-Boltzmann-WebGL/)
+- [Probably the worst application of Reservoir Computing](https://github.com/lele394/N-Body-electromagnetic-reservoir-computer)
 - [Fortran OpenMP and OpenACC N-Body simulation](https://github.com/lele394/Fortran-N-Body-OpenMP-OpenACC)
+- [DNSnitch, a privacy-first, default-deny DNS filter](https://github.com/lele394/DNSnitch)
 - [Rate equation simulation for growth modelling](https://github.com/lele394/Rate-equations-or-MC-approaches-for-modelling-growth)
 - [Raytraced voxel renderer](https://github.com/lele394/raymarching-test) (bugged)
 - [Marching-Cubes implementation](https://github.com/lele394/threejs_shenannigans)
-- Cita Discord Bot (Private)
+<!-- - Cita Discord Bot (Private) -->
 - Machine learning work on [Direct Feedback Alignment](https://arxiv.org/pdf/1609.01596) (Private)
 - Interstellar Dust extinction profile prediction using Machine Learning (Private)
 - [TM-30-20](https://www.energy.gov/sites/default/files/2022-04/ssl-royer-leukos-tm-30-tutorial-2022.pdf) Standard related work (under NDA)
@@ -54,32 +56,30 @@ Current large-scale project include Revived Witch's revival (especially remaking
 <br/>
 
 ### Favorite tools and languages
-- **prototyping :** Python, Jupyter Notebook
-- **Speed-critical :** Fortran
+- **prototyping :** Python, Jupyter Notebook, C/C++
+- **Speed-critical :** C/C++, Fortran
 - **Backend :** NodeJS, Python
 - **Front-end :** Pure CSS and HTML
-- **Data Analysis :** Python, Jupyter Notebook
+- **Data Analysis :** Python, Jupyter Notebook, Fortran
+- **Binary Analysis :** Binary Ninja (3.5)
 
 ### Interest and domains i would like to learn.
-- **Reverse Engineering :** Binary Ninja, Reverse Engineering, ARM/x64 reversing
+- **Reverse Engineering :** Binary Ninja, Reverse Engineering, ARM/x64 reversing (well that's ongoing)
 - **Low-level :** ASM, Manual ASM optimization, Embedded System Programming
 - **Custom Server Development :** Protocol reversing, Decryption 
 
 <br/>  
 
-Feel free to check out my [Resume](./Resume_but_mine.pdf) (might not be up to date).
+Feel free to check out my [Resume](./Resume_but_mine.pdf) 
+*might not be up to date, alternatively check [nebuleo.org](https://www.nebuleo.org/resume) or contact me directly.*
 
 
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 Currently studying Computational Physics, more interested in software.
+- 🔭 Currently studying pursuing a PhD in Computational Science.
   
 - 🌱 Last (maybe not) standing Global Revived Witch's wiki host.
-  
-- ⚡ Building my own backend.
-
-- ❓ Contact me on discord @lele394
 
 
 </td>
